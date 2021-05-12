@@ -3,7 +3,7 @@
 
 ## 运行效果
 
-### 视频演示 [YouKu Video](<https://v.youku.com/v_show/id_XNDIyOTI5NDkzNg==.html?spm=a2hzp.8253869.0.0&from=y1.7-2>)
+### 视频演示 [Video](<https://v.qq.com/s/videoplus/323959963>)
 
 ### 1. 硬件机械平台
 
